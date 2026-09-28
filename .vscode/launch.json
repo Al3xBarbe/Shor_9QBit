@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Shor_9QBit.py",
+            "console": "externalTerminal",
+            "python": "C:\\Users\\MSI\\anaconda3\\envs\\A5_molec\\python.exe"
+        }
+    ]
+}
